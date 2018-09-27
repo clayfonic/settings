@@ -1,0 +1,14 @@
+<application>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/miniconda3/envs/pcc_ch15_generating_data/bin/python" value="false" />
+        <entry key="$USER_HOME$/miniconda3/envs/pcc_ch16_downloading_data/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
