@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubAccounts">
-    <account id="8eaab11b-53b3-43d2-90a9-79c66fbac8b2" name="clayfonic">
-      <server host="github.com" />
-    </account>
-  </component>
-</application>
