@@ -5,6 +5,7 @@
       <mapping pattern="bugs" type="PLAIN_TEXT" />
       <mapping pattern="ascii_art" type="PLAIN_TEXT" />
       <mapping pattern="header_ascii_tests" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
